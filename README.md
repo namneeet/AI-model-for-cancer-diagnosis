@@ -3,10 +3,6 @@ diagnoses cancer yes ok it actually works with like 95% accurcuacy
 
 ## Package/ Library Overview
 
-#### Which package/library did you select?
-
-The package I've selected for this exploration activity is pygame in python, along with pandas 
-
 1.  What is the package/library?
  
         What purpose does it serve?
